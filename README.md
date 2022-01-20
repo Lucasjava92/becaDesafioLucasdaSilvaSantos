@@ -1,4 +1,4 @@
-<h2>Beca Desafio 1: Diagrama POO<h2>
+<h2>Beca Desafio 1: Diagrama POO</h2>
 <ul type = circle>
 <li>Nome: Lucas da Silva Santos</li>
 <li>E-mail: lucas.dasilvasantos@everis.nttdata.com </li>
