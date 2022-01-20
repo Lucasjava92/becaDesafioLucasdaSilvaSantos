@@ -13,3 +13,6 @@ Linguagem e Software utilizado no projeto:
 <li>GitHub</li>
 <li>Spring Boot</li>
 <li>Diagrama.Dawio</li>
+<h1> Diagrama Modelo Conceitual</h1>
+
+ 
