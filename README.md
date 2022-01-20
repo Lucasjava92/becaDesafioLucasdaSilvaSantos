@@ -15,5 +15,5 @@ Linguagem e Software utilizado no projeto:
 <li>Diagrama.Dawio</li>
 <h3>Desafio 
 <h1> Diagrama Modelo Conceitual</h1>
-<img src= git git"C:\Users\lsisanto\Documents\Desafio\Captura do diagrama de banco.png">
+<img width="369" alt="Captura do diagrama de banco" src="https://user-images.githubusercontent.com/86928030/150428662-321a1c11-2592-42f1-bcf6-7e8a1536fae7.png">
 
